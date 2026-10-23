@@ -4,7 +4,7 @@
 - 🔭 **Currently working on**: [Large Salary Analysis Project](https://github.com/your-username/large-salary-analysis)
 - 🌱 **Currently learning**: Statistical Analysis, Data Pipeline Optimization &amp; Advanced Visualizations
 - 💬 **Ask me about**: Python, Pandas, Data Cleaning, and Seaborn plots
-- 📫 **How to reach me**: <a href="https://www.linkedin.com/in/daniel-da-silva-figueiredo/" rel="noopener noreferrer">LinkedIn Profile</a> | <a href="mailto:figueiredo.ds2018@gmail.com">figueiredo.ds2018@gmail.com</a>
+- 📫 **How to reach me**: <a href="https://www.linkedin.com/in/daniel-da-silva-figueiredo/" target="\_blank" rel="noopener noreferrer">LinkedIn Profile</a> | <a href="mailto:figueiredo.ds2018@gmail.com">figueiredo.ds2018@gmail.com</a>
 
 --- 
 
