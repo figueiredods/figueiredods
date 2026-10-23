@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Daniel 👋
 
-<!--
-**figueiredods/figueiredods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 About Me 
+- 🔭 **Currently working on**: [Large Salary Analysis Project](https://github.com/your-username/large-salary-analysis)
+- 🌱 **Currently learning**: Statistical Analysis, Data Pipeline Optimization &amp; Advanced Visualizations
+- 💬 **Ask me about**: Python, Pandas, Data Cleaning, and Seaborn plots
+- 📫 **How to reach me**: [LinkedIn Profile Link] | [Your Email]
+- 😄 **Pronouns**: [Your Pronouns]
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack &amp; Tools 
+- **Languages &amp; Libraries**: Python (Pandas, NumPy), SQL 
+- **Data Visualization**: Seaborn, Matplotlib 
+- **Tools**: Git, GitHub, VS Code, Virtual Environments (\`.venv\`) 
+
+--- 
+
+### 📈 Featured Projects 
+- 🚀 **[Large Salary Analysis](https://github.com/your-username/large-salary-analysis)**: End-to-end Pandas ETL pipeline and visual EDA analyzing compensation across 6.6k+ records.
