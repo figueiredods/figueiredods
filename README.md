@@ -1,7 +1,7 @@
 ## Hi there, I'm Daniel 👋
 
 ### 📊 About Me 
-- 🔭 **Currently working on**: [Large Salary Analysis Project](https://github.com/your-username/large-salary-analysis)
+- 🔭 **Currently working on**: [Large Salary Analysis Project](https://github.com/figueiredods/large-salary-analysis)
 - 🌱 **Currently learning**: Statistical Analysis, Data Pipeline Optimization &amp; Advanced Visualizations
 - 💬 **Ask me about**: Python, Pandas, Data Cleaning, and Seaborn plots
 - 📫 **How to reach me**: [LinkedIn Profile](https://www.linkedin.com/in/daniel-da-silva-figueiredo/) | <a href="mailto:figueiredo.ds2018@gmail.com">figueiredo.ds2018@gmail.com</a>
