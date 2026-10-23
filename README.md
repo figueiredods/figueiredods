@@ -5,7 +5,6 @@
 - 🌱 **Currently learning**: Statistical Analysis, Data Pipeline Optimization &amp; Advanced Visualizations
 - 💬 **Ask me about**: Python, Pandas, Data Cleaning, and Seaborn plots
 - 📫 **How to reach me**: [LinkedIn Profile Link](https://www.linkedin.com/in/daniel-da-silva-figueiredo/) | [Your Email](figueiredo.ds2018@gmail.com)
-- 😄 **Pronouns**: [he/him/his]
 
 --- 
 
