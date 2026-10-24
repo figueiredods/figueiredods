@@ -1,5 +1,4 @@
-## Hi there, I'm Daniel 👋
-
+## Hi there, I'm Daniel 👋 
 ### 📊 About Me 
 - 🔭 **Currently working on**: [Large Salary Analysis Project](https://github.com/figueiredods/large-salary-analysis)
 - 🌱 **Currently learning**: Statistical Analysis, Data Pipeline Optimization &amp; Advanced Visualizations
@@ -9,11 +8,21 @@
 --- 
 
 ### 🛠️ Tech Stack &amp; Tools 
-- **Languages &amp; Libraries**: Python (Pandas, NumPy), SQL 
-- **Data Visualization**: Seaborn, Matplotlib 
-- **Tools**: Git, GitHub, VS Code, Virtual Environments (\`.venv\`) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white) 
 
 --- 
 
-### 📈 Featured Projects 
-- 🚀 **[Large Salary Analysis](https://github.com/your-username/large-salary-analysis)**: End-to-end Pandas ETL pipeline and visual EDA analyzing compensation across 6.6k+ records.
+### 📈 GitHub Stats 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>  </p> 
+
+--- 
+
+### 🚀 Featured Projects 
+- 📊 **[Large Salary Analysis](https://github.com/figueiredods/large-salary-analysis)**: End-to-end Python ETL pipeline analyzing 6.6k+ employment records with linear regression modeling ($R^2 = 0.6546$) and automated Markdown report generation.
