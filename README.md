@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=figueiredods&amp;show\_icons=true&amp;theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&amp;layout=compact&amp;theme=tokyonight)
+
 --- 
 
 ### 🚀 Featured Projects 
