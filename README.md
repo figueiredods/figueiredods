@@ -22,6 +22,11 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>  </p> 
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
 --- 
 
 ### 🚀 Featured Projects 
