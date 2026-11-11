@@ -19,16 +19,7 @@
 --- 
 
 ### 📈 GitHub Stats 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>  </p> 
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=figueiredods&amp;show\_icons=true&amp;theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredods&amp;layout=compact&amp;theme=tokyonight)
+![GitHub Streak]([suspicious link removed])
 
 --- 
 
