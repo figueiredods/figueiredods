@@ -19,7 +19,10 @@
 --- 
 
 ### 📈 GitHub Stats 
-![GitHub Streak]([suspicious link removed])
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=figueiredods&show_icons=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=figueiredods&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
 --- 
 
